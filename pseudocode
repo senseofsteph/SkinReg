@@ -4,7 +4,7 @@
 
 #Display one or two skin/skincare facts
 #Ask the user what their name is with input
-    #print the users name and applaud them for starting a   healthy skin journey
+    #print the users name and applaud them for starting a healthy skin journey
 #Remember to add whitespace with print() or n\
 
 #Display the next step of the game / statement
