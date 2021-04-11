@@ -6,7 +6,7 @@ A terminal based game that helps a user create a skincare regimen
 
 ### Technologies required
 
-Replit.com - a collaborative browser based intergrated development environment
+Replit https://replit.com/ - a collaborative browser based intergrated development environment
 
 ### Data
 
