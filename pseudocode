@@ -1,0 +1,108 @@
+#Pseudocode for SkinReg
+
+#A terminal based game that helps you create a skincare routine regimen
+
+#Display one or two skin/skincare facts
+#Ask the user what their name is with input
+    #print the users name and applaud them for starting a   healthy skin journey
+#Remember to add whitespace with print() or n\
+
+#Display the next step of the game / statement
+
+#Ask user to select their skin type with input
+#Create a while loop
+    #if user selects A
+        #print user has normal skin and confirmation
+    #elif user selects B
+        #print user has oily skin and confirmation
+    #elif user selects C
+        #print user has combination skin and confirmation
+    #elif user selects D
+        #print user has sensative skin and confirmation
+    #else
+        #print example: Sorry, please type A, B, C, or D
+#Remember to add whitespace with print() or n\
+
+#Display the next step "Now that we have your skin type"
+#Ask user if they would like to continue to play w/input
+#Create a while loop
+    #if user types Y, Yes, or yes
+        #print excited statement 
+    #if user types N, No, or no
+        #print end of game statement
+#Remember to add whitespace with print() or n\
+
+#Display fun fact or phrase to keep user engaged
+
+#Ask user if its daytime or nighttime with input
+#Create a while loop
+    #if user selects Daytime or Day time
+        #print energizing morning statement
+    #elif user selects Nighttime or Night time
+        #print relaxing evening statement
+    #else 
+        #print sorry, only daytime or nighttime for now
+#Remember to add whitespace with print() or n\
+
+#Display the first step of the skincare routine regimen (e.g., the cleanser)
+
+#Find a method/function to get the skin type input info
+#Possibly create another loop 
+    #if user selected normal for skin type
+        #print the recommended cleanser to use 
+        #print instructions on how to wash face
+        #print text or image of bubbles / cleansing
+        #print recognition statement for user
+    #elif user selected oily for skin type
+        #print the recommended cleanser to use 
+        #print instructions on how to wash face
+        #print text or image of bubbles / cleansing
+        #print recognition statement for user
+    #elif user selected combination for skin type
+        #print the recommended cleanser to use 
+        #print instructions on how to wash face
+        #print text or image of bubbles / cleansing
+        #print recognition statement for user
+    #elif user selected sensative for skin type
+        #print the recommended cleanser to use 
+        #print instructions on how to wash face
+        #print text or image of bubbles / cleansing
+        #print recognition statement for user
+    #else
+        # print we dont have your skin type, no cleanser for you statement
+#Remember to add whitespace with print() or n\
+
+#After cleansing recognition statement face loop
+#Ask user if they want to add the specific cleanser to their personalized skinreg list with input
+#Create while loop
+    #if user types Y, Yes, or yes
+        #add cleanser to new list
+        #print confirmation of added item 
+        #print number of steps completed in routine
+    #elif user types N, No, or no
+        #print end of game and thank you statment
+    #else
+        #print sorry, please type Yes or No
+#Remember to add whitespace with print() or n\
+
+#Display encoraging remarks about user's new healthy skin care journey
+
+#Inform user if they want to continue to step two, they will need to purchase the game
+#Ask user if they would like to know the next important step with input
+#Create while loop - with a list of choices
+    #if user selects i'm ready to continue
+        #print excited statment and confirmation
+    #elif user selects i'm not ready at this time
+        #print no worries, we'll hold on to your cleanser
+    #else
+        #end game and/or quit
+        #print encoranging statement and thank you
+#end of game
+
+
+
+#** Nice to Haves **
+#Specifying the day and night skin care routines
+#Having more application steps incorporated (i.e., toner, serum, moisturizer, night cream, eye cream, sunscreen)
+#Moving pictures or artwork that demostrates the task
+#Product recommendations that are pulled from brand sites (based on user input)
