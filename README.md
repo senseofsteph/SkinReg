@@ -1,14 +1,14 @@
-## Hackbright Academy Prep Project
+## SkinReg
 
 ### Overview
 
-A terminal based game that helps a user create a skincare regimen
+A terminal based game where users create a skincare regimen
 
 ### Technologies required
 
 Replit https://replit.com/ - a collaborative browser based intergrated development environment
 
-### Data
+### Data Collected
 
 - User first name, skincare texture, and skincare type
 - Information on skincare products and the range of skin types and textures
@@ -32,6 +32,9 @@ The game is self explanatory and simple. Read the prompts, type in your response
 Click the link to play directly from your browser: 
 https://replit.com/@senseofsteph/SkinReg#main.py
 
-### Notes
+### Connect with the developer
 
-- SkinReg is my first terminal-based project, created during my Hackbright Academy prep course. I hope you enjoy the interaction as much as I do! :)
+SkinReg is my first terminal-based/coding project, created during my Hackbright Academy prep course. I hope you enjoy the interaction as much as I do! :)
+
+- [Github](https://github.com/senseofsteph)
+- [LinkedIn](https://www.linkedin.com/in/senseofsteph/)
