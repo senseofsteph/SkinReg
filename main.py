@@ -1,6 +1,7 @@
-#Terminal-Based Game Jan/Feb 2021: SkinReg
-"""This is script that displays statements at specific speed"""
-from time import sleep
+# Terminal-Based Game Jan/Feb 2021: SkinReg
+
+from time import sleep 
+# Script to display function statements at specific speed
 
 def welcome_statement():
 
