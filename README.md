@@ -37,4 +37,4 @@ https://replit.com/@senseofsteph/SkinReg#main.py
 SkinReg is my first terminal-based/coding project, created during my Hackbright Academy prep course. I hope you enjoy the interaction as much as I do! :)
 
 - [Github](https://github.com/senseofsteph)
-- [LinkedIn](https://www.linkedin.com/in/senseofsteph/)
+- [LinkedIn](https://www.linkedin.com/in/stephanieogamba)
