@@ -6,7 +6,7 @@ A terminal based game where users create a skincare regimen
 
 ### Technologies required
 
-Replit https://replit.com/ - a collaborative browser based intergrated development environment
+[Replit](https://replit.com/) - a collaborative browser based intergrated development environment
 
 ### Data Collected
 
@@ -27,10 +27,9 @@ Replit https://replit.com/ - a collaborative browser based intergrated developme
 
 #### Instructions
 
-The game is self explanatory and simple. Read the prompts, type in your response, and once you're ready for the next step, press enter. 
+The game is self explanatory and simple. Read the prompts, type in your response, and press enter once you're ready for the next step. 
 
-Click the link to play directly from your browser: 
-https://replit.com/@senseofsteph/SkinReg#main.py
+[Click the link to play directly from your browser](https://replit.com/@senseofsteph/SkinReg#main.py)
 
 ### Connect with the developer
 
