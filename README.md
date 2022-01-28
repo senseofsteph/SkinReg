@@ -17,8 +17,8 @@ A terminal based game where users create a skincare regimen
 
 #### MVP
 
-- User selects skin care texture and type (oily, normal, acne-prone, or sensitive)
-- User selects skin care products that match their skin type
+- User can select skin care texture and type (oily, normal, acne-prone, or sensitive)
+- User can select skin care products that match their skin type
 
 #### 2.0
 
@@ -27,9 +27,12 @@ A terminal based game where users create a skincare regimen
 
 #### Instructions
 
-The game is self explanatory and simple. Read the prompts, type in your response, and press enter once you're ready for the next step. 
+[Click the link to play directly from your browser](https://replit.com/@senseofsteph/SkinReg)
 
-[Click the link to play directly from your browser](https://replit.com/@senseofsteph/SkinReg#main.py)
+The game is self explanatory and simple:
+1. Read each prompt
+2. Type in your response
+3. Press enter to move to the next step 
 
 ### Connect with the developer
 
