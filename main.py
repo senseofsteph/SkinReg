@@ -1,4 +1,4 @@
-# Terminal-Based Game Jan/Feb 2021: SkinReg
+# Terminal-based game: SkinReg -- Jan 2021
 
 from time import sleep 
 # Script to display function statements at specific speed
